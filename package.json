@@ -1,0 +1,29 @@
+{
+  "name": "art-109",
+  "version": "1.0.0",
+  "description": "sockets example live on youtube",
+  "keywords": [
+    "sockets",
+    "p5.js",
+    "node"
+  ],
+  "homepage": "https://github.com/spenielle/art-109#readme",
+  "bugs": {
+    "url": "https://github.com/spenielle/art-109/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spenielle/art-109.git"
+  },
+  "license": "ISC",
+  "author": "Denielle Sambilay",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "socket.io": "^4.8.3"
+  }
+}
